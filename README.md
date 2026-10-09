@@ -6,7 +6,7 @@
 
 <p>An Android and web app for shared messes and bachelor houses: one-tap daily meals, bazar with receipts, a live meal rate, member balances, fair settlement and month-end PDF or Excel reports — with an admin console that manages everything.</p>
 
-<a href="https://mealhive.skotechlabs.com"><img src="https://img.shields.io/badge/Live_Demo-Online-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo: Online"></a> <img src="https://img.shields.io/badge/Category-Android_%2B_Web_App-7C3AED?style=for-the-badge" alt="Category: Android + Web App"> <img src="https://img.shields.io/badge/Status-In_Production-16A34A?style=for-the-badge" alt="Status: In Production"> <a href="https://skotechlabs.com"><img src="https://img.shields.io/badge/Built_by-SKO_TechLabs-0F172A?style=for-the-badge" alt="Built by: SKO TechLabs"></a>
+<a href="https://mealhive.skotechlabs.com"><img src="https://img.shields.io/badge/Live_Demo-Online-16A85A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo: Online"></a> <img src="https://img.shields.io/badge/Category-Android_%2B_Web_App-0E4A4B?style=for-the-badge" alt="Category: Android + Web App"> <img src="https://img.shields.io/badge/Status-In_Production-16A34A?style=for-the-badge" alt="Status: In Production"> <a href="https://skotechlabs.com"><img src="https://img.shields.io/badge/Built_by-SKO_TechLabs-032B2E?style=for-the-badge" alt="Built by: SKO TechLabs"></a>
 
 <p><a href="https://mealhive.skotechlabs.com"><b>Live Demo</b></a> &nbsp;·&nbsp; <a href="https://skotechlabs.com/projects/mealhive-mess-meal-manager-app"><b>Case Study</b></a> &nbsp;·&nbsp; <a href="https://skotechlabs.com/contact"><b>Request a Demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/skotechlabs"><b>All Products</b></a></p>
 
@@ -113,7 +113,7 @@ Interested in this product for your business? We offer:
 ## Get in Touch
 
 <p>
-<a href="https://skotechlabs.com"><img src="https://img.shields.io/badge/Website-skotechlabs.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: skotechlabs.com"></a>
+<a href="https://skotechlabs.com"><img src="https://img.shields.io/badge/Website-skotechlabs.com-0E4A4B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: skotechlabs.com"></a>
 <a href="mailto:sko.techlabs@gmail.com"><img src="https://img.shields.io/badge/Email-sko.techlabs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: sko.techlabs@gmail.com"></a>
 <a href="https://wa.me/8801954547101"><img src="https://img.shields.io/badge/WhatsApp-%2B8801954547101-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp: +8801954547101"></a>
 <a href="https://linkedin.com/company/skotechlabs"><img src="https://img.shields.io/badge/LinkedIn-SKO_TechLabs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: SKO TechLabs"></a>
